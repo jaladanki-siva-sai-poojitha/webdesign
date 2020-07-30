@@ -1,0 +1,19 @@
+h2,p{
+	color:red;
+	text-align:center;
+}
+#car{
+	color:tomato;
+	text-align:right;
+}
+.cycle{
+	color:pink;
+	background-color:grey;
+}
+h2,h3,h4{
+	color:aqua;
+	text-align:center;
+}
+*{
+	text-align:right;
+}
